@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+}
+body,
+html {
+  font-size: 100%;
+}
+head,
+div {
+  padding: 0;
+  margin: 0;
+}
+p {
+  padding: 0;
+  margin: 0;
+}
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* padding: 0;
+  margin: 0; */
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+}
